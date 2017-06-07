@@ -1,0 +1,27 @@
+info t=2017-06-10T23:12:09.892Z Cinnamon.AppSystem.get_default() started in 598 ms
+info t=2017-06-10T23:12:09.899Z loading user theme: /usr/share/themes/Numix-Cinnamon-Dark/cinnamon/cinnamon.css
+info t=2017-06-10T23:12:09.924Z added icon directory: /usr/share/themes/Numix-Cinnamon-Dark/cinnamon
+info t=2017-06-10T23:12:09.997Z PlacesManager: Updating devices
+info t=2017-06-10T23:12:10.020Z loaded at Sat Jun 10 2017 20:12:10 GMT-0300
+info t=2017-06-10T23:12:10.832Z Loaded applet menu@cinnamon.org in 786 ms
+info t=2017-06-10T23:12:10.902Z Loaded applet window-list@cinnamon.org in 69 ms
+info t=2017-06-10T23:12:10.919Z Loaded applet keyboard@cinnamon.org in 15 ms
+info t=2017-06-10T23:12:10.928Z Loaded applet systray@cinnamon.org in 8 ms
+info t=2017-06-10T23:12:11.039Z Loaded applet network@cinnamon.org in 110 ms
+info t=2017-06-10T23:12:11.146Z Loaded applet sound@cinnamon.org in 104 ms
+info t=2017-06-10T23:12:11.239Z Loaded applet power@cinnamon.org in 92 ms
+info t=2017-06-10T23:12:11.319Z Loaded applet calendar@cinnamon.org in 79 ms
+info t=2017-06-10T23:12:11.334Z Loaded applet settings@cinnamon.org in 14 ms
+info t=2017-06-10T23:12:11.344Z Loaded applet inhibit@cinnamon.org in 9 ms
+info t=2017-06-10T23:12:11.344Z AppletManager.init() started in 1324 ms
+info t=2017-06-10T23:12:11.347Z Cinnamon took 2469 ms to start
+info t=2017-06-10T23:12:11.872Z Hiding systray: network
+info t=2017-06-10T23:12:11.874Z Adding systray: pamac-tray (24x24px)
+info t=2017-06-10T23:12:12.023Z Adding systray: franz (24x24px)
+info t=2017-06-10T23:12:13.750Z Resized pamac-tray with normalized size (16x16px)
+info t=2017-06-10T23:12:13.750Z Resized franz with normalized size (16x16px)
+info t=2017-06-11T03:46:12.232Z GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.cinnamon.SettingsDaemon was not provided by any .service files
+trace t=2017-06-11T03:46:12.232Z 
+<----------------
+_proxyInvoker/asyncCallback@resource:///org/gnome/gjs/modules/overrides/Gio.js:83
+---------------->
